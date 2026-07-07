@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Desarrollador Backend | Python • Django • APIs REST
 ### Experiencia en TI, Infraestructura y Ciberseguridad
 
-Soy un profesional de tecnología de Paraguay 🇵🇾 con más de 17 años de experiencia en áreas de TI, infraestructura y seguridad informática.
+Soy un profesional de tecnología de Paraguay 🇵🇾 con +17 años de experiencia en áreas de TI, infraestructura y seguridad informática.
 
 Mi camino comenzó en soporte técnico, redes e infraestructura, evolucionando con el tiempo hacia el desarrollo de soluciones web internas, herramientas a medida y automatización de procesos.
 
